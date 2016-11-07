@@ -34,3 +34,7 @@ This is probably due to the aesthetics of elementary OS itself, but I tend to pr
 ### 6. Nothing _too_ Similar
 
 I try to avoid having several of "the same" wallpaper, i.e. mountainscapes with the same color palette, beaches with the same composition, etc.
+
+## Naming Scheme
+
+I simply name the images what they're named on Unsplash. This also means you can search Unsplash for the filename to get more information about the image.
