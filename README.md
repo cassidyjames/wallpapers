@@ -30,3 +30,7 @@ This may just be a side effect of the former points, but generally I prefer phot
 ### 5. Cool, Slightly Muted Colors
 
 This is probably due to the aesthetics of elementary OS itself, but I tend to prefer photos with cooler, slightly muted colors. Strong contrast can distract, and warm colors don't always fit well.
+
+### Nothing _too_ Similar
+
+I try to avoid having several of "the same" wallpaper, i.e. mountainscapes with the same color palette, beaches with the same composition, etc.
