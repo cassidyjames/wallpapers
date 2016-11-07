@@ -1,5 +1,5 @@
 # wallpapers
-Curated wallpapers picked from Unsplash
+Curated wallpapers, mostly picked from Unsplash
 
 ## How I Curate
 
